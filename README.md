@@ -1,4 +1,4 @@
 KOExtension
 ===========
 
-KOExtension is a small lightweight extension for knockout. Using this extension we can easily created well structured complex web and mobile application.
+KOExtension is a small lightweight extension for knockout and using this extension we can easily create well structured complex web/mobile application.
